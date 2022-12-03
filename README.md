@@ -4,16 +4,15 @@
 
 
 <h2>Контакты автора @ilandroxy</h2>
+>> [Сайт страничка портфолио](https://ilandroxxy.github.io/)
 
-[Сайт страничка портфолио](https://ilandroxxy.github.io/)
+>> [Telegram](http://t.me/ilandroxy)
 
-[Telegram](http://t.me/ilandroxy)
+>> [Мой блог Teletype](https://teletype.in/@ilandroxy)
 
-[Мой блог Teletype](https://teletype.in/@ilandroxy)
+>> [Аналогичный блог Telegram]()
 
-[Аналогичный блог Telegram]()
-
-[Профиль Авито](http://www.avito.ru/user/590293c00d3ab79d83e929a6731df164/profile?src=sharing)
+>> [Профиль Авито](http://www.avito.ru/user/590293c00d3ab79d83e929a6731df164/profile?src=sharing)
 
 
 
@@ -44,6 +43,7 @@
 На одного пользователя есть ограничение - не более 20 ботов.
 И так, найдем его по этой ссылке [@BotFather](https://t.me/BotFather) 
 и через команду /newbot дадим нашему боту имя, в ответ получим долгожданный API KEY
+
 ![image](https://user-images.githubusercontent.com/47958240/205437295-c707074e-7065-4c52-ad63-16571e4b6ae7.png)
 
 
