@@ -39,11 +39,13 @@
 
 
 <h2>Получите API KEY у BotFather</h2>
+
 @BotFather - это официальный бот Telegram, который помогает пользователям создавать ботов. 
 На одного пользователя есть ограничение - не более 20 ботов.
 И так, найдем его по этой ссылке [@BotFather](https://t.me/BotFather) 
 и через команду /newbot дадим нашему боту имя, в ответ получим долгожданный API KEY
-![image](https://user-images.githubusercontent.com/47958240/205437126-62b190c5-5722-4f41-b559-1fa153b25e66.png)
+![image](https://user-images.githubusercontent.com/47958240/205437295-c707074e-7065-4c52-ad63-16571e4b6ae7.png)
+
 
 
 
