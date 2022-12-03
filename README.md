@@ -2,6 +2,7 @@
 <h1>Делюсь с Вами простым шаблоном для создание Telegram бота через библиотеку telebot</h1>
 Так же известную как pyTelegramBotAPI
 
+***
 
 <h2>Контакты автора @ilandroxy</h2>
 
@@ -16,7 +17,7 @@
 * [Профиль Авито](http://www.avito.ru/user/590293c00d3ab79d83e929a6731df164/profile?src=sharing)
 
 
-
+***
 
 
 <h2>Как добавить проект с github на компьютер?</h2>
@@ -36,7 +37,7 @@
 4. После чего открываем наш проект через любое IDE на компьютере 
 ![image](https://user-images.githubusercontent.com/47958240/205436746-ce6034c4-930c-455b-a304-3f0cf4c91c9d.png)
 
-
+***
 
 <h2>Получите API KEY у @BotFather</h2>
 
