@@ -2,6 +2,22 @@
 <h1>Делюсь с Вами простым шаблоном для создание Telegram бота через библиотеку telebot (pyTelegramBotAPI)</h1>
 
 
+
+<h2>Контакты автора @ilandroxy</h2>
+
+[Сайт страничка портфолио](https://ilandroxxy.github.io/)
+
+[Telegram](http://t.me/ilandroxy)
+
+[Мой блог Teletype](https://teletype.in/@ilandroxy)
+
+[Аналогичный блог Telegram]()
+
+[Профиль Авито](http://www.avito.ru/user/590293c00d3ab79d83e929a6731df164/profile?src=sharing)
+
+
+
+
 <h2>Как добавить проект с github на компьютер?</h2>
 
 Давайте скопируем этот репозиторий на компьютер
@@ -19,16 +35,11 @@
 После чего открываем наш проект через любое IDE на компьютере 
 ![image](https://user-images.githubusercontent.com/47958240/205436746-ce6034c4-930c-455b-a304-3f0cf4c91c9d.png)
 
-<h2>Контакты автора @ilandroxy</h2>
 
-[Сайт страничка портфолио](https://ilandroxxy.github.io/)
+<h2Получите API KEY у BotFather</h2>
+@BotFather - это официальный бот Telegram, который помогает пользователям создавать ботов, на одного пользователя есть ограничение - не более 20 ботов.
+И так, найдем его по этой ссылке [@BotFather](https://t.me/BotFather)
 
-[Telegram](http://t.me/ilandroxy)
 
-[Мой блог Teletype](https://teletype.in/@ilandroxy)
-
-[Аналогичный блог Telegram]()
-
-[Профиль Авито](http://www.avito.ru/user/590293c00d3ab79d83e929a6731df164/profile?src=sharing)
 
 
