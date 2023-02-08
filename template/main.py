@@ -4,8 +4,11 @@ from telebot import types  # предварительно его нужно ск
 import time  # это дополнительные библиотеки встроенные в Python
 import random
 
-bot = telebot.TeleBot('Ваш API key от @BotFather')  # сюда нужно вписать ваш API key от официального бота @BotFather
-# bot = telebot.TeleBot('5734914555:AAHshNFPEP2SszdrAKbfm_6uKZI4waH1Nbs')
+with open('token.txt', 'r') as file:
+    TOKEN = file.readline().strip()
+
+bot = telebot.TeleBot(TOKEN)  # сюда нужно вписать ваш API key от официального бота @BotFather
+
 
 # 👉 🙏 👆 👇 😅 👋 🙌 ☺️ ❗ ️‼️ ✌️ 👌 ✊ 👨‍💻  🤖 😉  ☝️ ❤️ 💪 ✍️ 🎯  ⛔  ️✅ 📊📈🧮   🗳️
 # просто вынес сюда некоторое количество эмоджи из телеграмма, можно спокойно встраивать в str сообщения
