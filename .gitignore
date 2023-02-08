@@ -5,7 +5,7 @@ __pycache__/
 
 token.txt
 .idea/
-.DS_Store/
+.DS_Store
 
 # C extensions
 *.so
